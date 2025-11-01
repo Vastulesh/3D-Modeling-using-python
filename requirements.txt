@@ -1,0 +1,7 @@
+cadquery
+trimesh
+numpy
+shapely
+Rtree
+scipy
+pythreejs
